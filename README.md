@@ -117,11 +117,11 @@ Machine learning system for intelligent data classification across multiple cate
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulMusawair777&theme=dark&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulMusawair777&theme=dark&layout=compact&hide_border=true)
+<a href="https://github.com/AbdulMusawair777">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulMusawair777&theme=dark" />
+</a>
 
 ---
 
@@ -161,4 +161,3 @@ $ exit
 ---
 
 **Let's collaborate on impactful AI & Computer Vision projects! Feel free to reach out.** 🚀
-
